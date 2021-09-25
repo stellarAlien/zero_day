@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Best school"
+=======
+<<<<<<< HEAD
+echo "This School is so cool!"
+=======
+echo " Best school"
+>>>>>>> update_script
+>>>>>>> master
